@@ -1,1 +1,2 @@
-# JS_Luschenko
+# JS_Luschenko 
+Tasks for the Java Script course from Luschencko
